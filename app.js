@@ -187,44 +187,44 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Anh Nhà Ở Đâu Thế",
             artist: "Vũ Duy Khánh",
-            src: "Music/1anhnhaodauthe/anhnhaodauthe.mp3",
-            cover: "Music/1anhnhaodauthe/socdapmatna.jpg"
+            src: "music/1anhnhaodauthe/anhnhaodauthe.mp3",
+            cover: "music/1anhnhaodauthe/socdapmatna.jpg"
         },
         {
             title: "Chỉ Muốn Bên Em Lúc Này",
             artist: "JIKI X, HUY VẠC",
-            src: "Music/2chimuonbenemlucnay/chimuonbenemlucnay.mp3",
-            cover: "Music/2chimuonbenemlucnay/soctucgian.jpg"
+            src: "music/2chimuonbenemlucnay/chimuonbenemlucnay.mp3",
+            cover: "music/2chimuonbenemlucnay/soctucgian.jpg"
         },
         {
             title: "Muốn Nói Với Em",
             artist: "Tích Kỳ",
-            src: "Music/3muonnoivoiem/muonnoivoiem.mp3",
-            cover: "Music/3muonnoivoiem/socdapmatna2.png"
+            src: "music/3muonnoivoiem/muonnoivoiem.mp3",
+            cover: "music/3muonnoivoiem/socdapmatna2.png"
         },
         {
             title: "Bên Trên Tầng Lầu",
             artist: "Tăng Duy Tân",
-            src: "Music/4bentrentanglau/bentrentanglau.mp3",
-            cover: "Music/4bentrentanglau/socantao.png"
+            src: "music/4bentrentanglau/bentrentanglau.mp3",
+            cover: "music/4bentrentanglau/socantao.png"
         },
         {
             title: "Em Là Ai",
             artist: "Keyo",
-            src: "Music/5emlaai/emlaai.mp3",
-            cover: "Music/5emlaai/sociungaytet.png"
+            src: "music/5emlaai/emlaai.mp3",
+            cover: "music/5emlaai/sociungaytet.png"
         },
         {
             title: "Mãi Mãi Một Tình Yêu",
             artist: "Đan Trường",
-            src: "Music/6maimaimottinhyeu/maimaimottinhyeu.mp3",
-            cover: "Music/6maimaimottinhyeu/cosoc.jpg"
+            src: "music/6maimaimottinhyeu/maimaimottinhyeu.mp3",
+            cover: "music/6maimaimottinhyeu/cosoc.jpg"
         },
         {
             title: "Thôi Em Đừng Đi",
             artist: "RPT MCK (feat. Trung Trần)",
-            src: "Music/7thoiemdungdi/thoiemdungdi.mp3",
-            cover: "Music/7thoiemdungdi/iuthekhongbiet.jpg"
+            src: "music/7thoiemdungdi/thoiemdungdi.mp3",
+            cover: "music/7thoiemdungdi/iuthekhongbiet.jpg"
         }
     ];
 
